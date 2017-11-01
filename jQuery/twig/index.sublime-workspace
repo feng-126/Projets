@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Twig_",
+				"Twig_Environment〔class〕"
+			],
+			[
+				"te",
+				"templateUrl\t(demo11.html)"
+			],
+			[
+				"route",
+				"routeProvider\t(demo11.html)"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"ngcl",
+				"ng-class"
+			],
+			[
+				"edit",
+				"editingId\t(app.js)"
+			],
+			[
+				"ng-lo",
+				"ng-cloak\tAngularJS"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ng",
+				"ng-model"
+			],
+			[
+				"test",
+				"test_routelist.php"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"$route",
+				"$routeParams\t(provider.html)"
+			],
+			[
+				"ng-v",
+				"ng-view\tAngularJS"
+			],
+			[
+				"ROUTE",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"routeP",
+				"routeProvider\t(route.html)"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"sap",
+				"space-around"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"line",
+				"lineCount"
+			],
+			[
+				"colu",
+				"columnHeight"
+			],
+			[
+				"col",
+				"column\t(test.html)"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"wrapper",
+				"wrapperId"
+			],
+			[
+				"dra",
+				"drawAvg"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"data",
+				"data-target\t(demo3.html)"
+			],
+			[
+				"container",
+				"container-fluid\t(demo3.html)"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"col-",
+				"col-md-9\t(demo.html)"
+			],
+			[
+				"cont",
+				"container\t(demo.html)"
+			],
+			[
+				"conte",
+				"container"
+			],
+			[
+				"height",
+				"height: 〔property〕"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"inp",
+				"input-group"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"table",
+				"table\tTag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"for",
+				"for\tAttr"
+			],
+			[
+				"boder",
+				"border-box"
+			],
+			[
+				"bgr",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"mir",
+				"micro"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hi",
+				"hidden-sm"
+			],
+			[
+				"paddnig",
+				"padding-top: 〔property〕"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"O",
+				"Origami-jaune.svg"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"magin",
+				"margin-bottom\t(main.css)"
+			],
+			[
+				"cno",
+				"container"
+			],
+			[
+				"whi",
+				"width〔function〕"
+			],
+			[
+				"il",
+				"image-lg\t(main.js)"
+			],
+			[
+				"data-im",
+				"data-image-lg\t(index.html)"
+			],
+			[
+				"back",
+				"background-image\t(main.css)"
+			],
+			[
+				"bac",
+				"background-repeat\t(main.css)"
+			],
+			[
+				"visi",
+				"visible-lg\t(index.html)"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"to",
+				"top\t(main.css)"
+			],
+			[
+				"lin",
+				"line-height\t(main.css)"
+			],
+			[
+				"top",
+				"topbar"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"che",
+				"checked〔function〕"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"anim",
+				"animate\t.animate()"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backg",
+				"backgroundColor"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"flex-",
+				"flex-start"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"del",
+				"delAll"
+			],
+			[
+				"page",
+				"pageY"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"child",
+				"children〔function〕"
+			],
+			[
+				"es",
+				"ellipsis"
+			],
+			[
+				"now",
+				"nowrap"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"ul",
+				"ulsecond"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"last",
+				"lastnode"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"show",
+				"showmore"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tod",
+				"todo"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ng-rea",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"repeat",
+				"repeatController"
+			],
+			[
+				"login",
+				"loginController"
+			],
+			[
+				"lo",
+				"log\t(module.html)"
+			],
+			[
+				"sc",
+				"scope\t(module.html)"
+			],
+			[
+				"my",
+				"myController"
+			],
+			[
+				"console",
+				"console.log('Hello\t(01.js)"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"res",
+				"res.end"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"HttoRe",
+				"HttpResponse\tclass"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"ma",
+				"Marionette"
+			],
+			[
+				"stu",
+				"stum"
+			],
+			[
+				"shoe",
+				"showmodel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "Package Control: li",
+		"selected_items":
+		[
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Backb",
+				"Snippet: Backbone Router"
+			],
+			[
+				"remeve",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/wamp5.5/www/templates/twig-exemple.html.twig",
+		"/G/wamp5.5/www/index.php",
+		"/G/wamp5.5/www/todomvc/index.html",
+		"/E/Angular/view/a.html",
+		"/E/Angular/demo8.html",
+		"/E/Angular/todomvc-app-template-master/todomvc-app-template-master/index.html",
+		"/E/Angular/todomvc-app-template-master/todomvc-app-template-master/js/app.js",
+		"/E/Angular/demo10.html",
+		"/E/Angular/demo11.html",
+		"/K/前端/传智angular和node（荐）/angular/框架AngularJS/主流框架AngularJS/12.主流框架/03 流行框架第3天 01-29/2016-01-29/demo/04-controller2.html",
+		"/K/前端/传智angular和node（荐）/angular/框架AngularJS/主流框架AngularJS/12.主流框架/04 流行框架第4天 01-30/2016-01-30/2016-01-30/todomvc-app-template/index.html",
+		"/G/wamp/www/Yike/index.html",
+		"/G/wamp/www/Yike/scripts/app.js",
+		"/G/wamp/www/4-code/index01.html",
+		"/G/wamp/www/4-code/test_routeList.html",
+		"/G/wamp/www/4-code/test_routelist.php",
+		"/G/wamp/www/4-code/intro.html",
+		"/G/wamp/www/4-code/routeList.html",
+		"/G/wamp/www/4-code/provider.html",
+		"/E/Angular/demo9.html",
+		"/C/Users/lenovo/Desktop/test.html",
+		"/H/60-开源框架-angularJS-第三天/其它资料/4-code/Yike/public/less/base.less",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/CSS/test.html",
+		"/E/CSS/test10.html",
+		"/E/CSS/test9.html",
+		"/J/ficelles/tables/test-arr.html",
+		"/J/ficelles/tables/table responsive.html",
+		"/J/ficelles/tables/test.html",
+		"/J/ficelles/tables/table5 avg.html",
+		"/E/jQuery/1,窗口.html",
+		"/E/bootscrapt/learn-bootstapt/demo3.html",
+		"/E/bootscrapt/learn-bootstapt/demo4.html",
+		"/E/bootscrapt/learn-bootstapt/demo5.html",
+		"/E/bootscrapt/learn-bootstapt/demo2.html",
+		"/E/bootscrapt/learn-bootstapt/demo.html",
+		"/C/Users/lenovo/Desktop/w3school-master/w3school-master/README.md",
+		"/C/Users/lenovo/Desktop/test2.html",
+		"/E/bootscrapt/learn-bootstapt/nav.html",
+		"/C/Users/lenovo/Desktop/jia.html",
+		"/C/Users/lenovo/Desktop/jiathis.html",
+		"/C/Users/lenovo/Desktop/testjiathis.html",
+		"/E/bootscrapt/bootstrap/text1.html",
+		"/E/bootscrapt/learn-bootstapt/test.html",
+		"/E/bootscrapt/learn-bootstapt/test2.html",
+		"/E/bootscrapt/learn-bootstapt/css/style.css",
+		"/E/bootscrapt/learn-bootstapt/text.html",
+		"/E/bootscrapt/learn-bootstapt/index.html",
+		"/E/CSS/bcg.html",
+		"/I/New site TFF/New site TFF/index.html",
+		"/I/New site TFF/New site TFF/css/style.css",
+		"/I/New site TFF/New site TFF/text.html",
+		"/I/New site TFF/New site TFF/img/ampoule.png",
+		"/I/New site TFF/New site TFF/img/guillemet violet.svg",
+		"/C/Users/lenovo/Desktop/New site TFF/New site TFF/css/style.css",
+		"/C/Users/lenovo/Desktop/New site TFF/New site TFF/index.html",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/css/test_main.css",
+		"/E/bootscrapt/09. 移动web开发/02-移动web开发_02/02-移动web开发_02/2015-12-13/code/index.html",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/test.html",
+		"/C/Users/lenovo/Documents/stage/CV_FENG Yulei/index.html",
+		"/G/Git/Test/git/test/README.md",
+		"/L/HTML/2016传智前端开发/13. 主流框架/02 第二天git的介绍及使用 01-27/02 第二天git的介绍及使用 01-27/2016-01-27/README.md",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/index.html",
+		"/E/bootscrapt/09. 移动web开发/02-移动web开发_02/02-移动web开发_02/2015-12-13/code/css/main.css",
+		"/E/bootscrapt/09. 移动web开发/03-移动web开发_03/03-移动web开发_03/资料/less/README.md",
+		"/E/bootscrapt/09. 移动web开发/02-移动web开发_02/02-移动web开发_02/2015-12-13/code/js/main.js",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/js/main.js",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/css/main.css",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/test2.html",
+		"/C/Users/lenovo/Desktop/css/test.html",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/PackageResourceViewer.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/PackageResourceViewer.sublime-settings",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/selector/index.html",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 3/Installed Packages/PackageResourceViewer.sublime-package",
+		"/E/bootscrapt/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/mediaquery/index.html",
+		"/E/Backbone/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/index.html",
+		"/E/Backbone/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/code/code/index.html",
+		"/E/Backbone/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/PROJECT.md",
+		"/L/HTML/2016传智前端开发/05. jQuery/01-jQuery基础第一天（jQuery使用和选择器）/01-jQuery基础第一天（jQuery使用和选择器）/4-源代码/案例/01 下拉菜单/test2.html",
+		"/L/HTML/2016传智前端开发/05. jQuery/01-jQuery基础第一天（jQuery使用和选择器）/01-jQuery基础第一天（jQuery使用和选择器）/4-源代码/案例/01 下拉菜单/12 下拉菜单案例.html",
+		"/E/Backbone/09. 移动web开发/01-移动web开发_01/01-移动web开发_01/2015-12-12/README.md",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/08 渐变/01 渐变-线性.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/08 渐变/03 渐变-重复.html",
+		"/L/HTML/2016传智前端开发/05. jQuery/01-jQuery基础第一天（jQuery使用和选择器）/01-jQuery基础第一天（jQuery使用和选择器）/4-源代码/案例/01 下拉菜单/test.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/11 伸缩布局-应用.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/05第五章/第五章例子/demo3-复选框全选反选/demo2.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/05第五章/第五章例子/demo3-复选框全选反选/demo1.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/05第五章/第五章例子/demo2-多行文本框高度变化/demo1-1文本框高度变化.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/05第五章/第五章例子/demo1-文本框得到失去焦点/demo2.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/05第五章/第五章例子/demo1-文本框得到失去焦点/demo1.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/test2.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/09 伸缩布局-详解 align-self.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/10 伸缩布局-详解 order.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/08 伸缩布局-详解 flex.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/02 伸缩布局-详解 flex-direction.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/10-实例/demo1-初始化.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/10-实例/demo2-连续点击带bug.html",
+		"/E/CSS/07. CSS3/04-CSS3基础-第4天/04-CSS3基础-第4天/4-源代码/09 伸缩布局/02 伸缩布局-详解 flex-direction.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/panel12-toggle.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/panel14-fadeTo.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/panel15-animate仿其他方法.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo7-animate多重动画2.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo8-综合动画.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo11-stop方法/demo3-.stop().html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo11-stop方法/demo2-.stop()(解决问题).html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo11-stop方法/demo4-.stop().html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo11-stop方法/demo5-.stop().html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo11-stop方法/demo1-.stop(快速滑过有问题).html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo2-show和hide带时间.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo6-animate多重动画1.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo5-animate简单使用.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo1-show和hide.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/9-动画/demo3-fade.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/10-实例/demo3-正确实例.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/07 伸缩布局-详解 flex-flow.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/06 伸缩布局-详解 align-content.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/05 伸缩布局-详解 flex-wrap.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/04 伸缩布局-详解 align-items.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/03 伸缩布局-详解 justify-content.html",
+		"/E/CSS/07. CSS3/03-CSS3基础-第3天/03-CSS3基础-第3天/4-源代码/09 伸缩布局/01 伸缩布局-介绍.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/8-其它用法/4-8-3相同事件名称,不同命名空间执行方法.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/8-其它用法/4-8-2事件命名空间, 便于管理.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/8-其它用法/4-8-1事件类型多个.html",
+		"/E/jQuery/锋利的jQuery/《锋利的jQuery》实例源码/实例下载/04第四章/第四章例子/7-模拟操作/4-7-1 trigger.html"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"python27\\01.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
