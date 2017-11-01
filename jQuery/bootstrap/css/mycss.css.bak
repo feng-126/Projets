@@ -51,9 +51,6 @@ nav .container{
 #linkedin-options .dd-list .dd-item .title{
     margin-top: 10px;
 }
-#linkedin-options .modal-start-btn{
-	margin-top: 50px;
-}
 .input_required_linkedin-options{
     border: 1px solid red;
 }
