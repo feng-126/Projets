@@ -390,8 +390,12 @@ $(document).ready(function(){
         // find first .hide div, put at the first child
         var firstNode = $("#linkedin_new_experience .hide").first();
         //put it at the first
-        firstNode.prependTo(".tables_container")
-                 .removeClass("hide");
+        firstNode.removeClass("hide")
+                 .attr({
+                     style: 'display:none'
+                 })
+                 .fadeIn('slow')
+                 .prependTo(".tables_container");
         //initializ the frist child open table position icons
         firstNode.find(".table_row").show();
         //add chosen
