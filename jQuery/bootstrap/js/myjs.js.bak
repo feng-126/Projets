@@ -389,9 +389,10 @@ $(document).ready(function(){
     $("#linkedin_new_experience .btn_add").click(function(){
         // find first .hide div, put at the first child
         var firstNode = $("#linkedin_new_experience .hide").first();
+        var icons =  firstNode.find(".new_experience_icon");
         //put it at the first
         firstNode.prependTo(".tables_container")
-                 .removeClass("hide");
+            .removeClass("hide");
         //initializ the frist child open table position icons
         firstNode.find(".table_row").show();
         //add chosen
@@ -452,6 +453,10 @@ $(document).ready(function(){
     function chosen(handle){
         //firstNode.find(".section_fonction").select2();
         handle.find(".section_fonction").select2();
+    }
+    function iconInRow(handle){
+        //icons.css("margin-top","120px");
+        //handle.css("margin-top","0px");
     }
 
 
