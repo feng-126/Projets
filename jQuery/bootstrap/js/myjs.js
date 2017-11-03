@@ -425,7 +425,6 @@ $(document).ready(function(){
         //initilize table and icons
         showHideData(current_table,[".to_date"],[".today"]);
         current_table.find(".table_row").show();
-        iconInRow(icons);
         //initilize input checkbox ..
         initTable(current_table,["input",".show_today",".section_fonction",".month_year",".end_month_year",".fa-chevron-down"]);
     });
